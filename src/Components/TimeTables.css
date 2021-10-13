@@ -1,0 +1,83 @@
+.timeList {
+  display: grid;
+  grid-template-columns: repeat(3, 230px);
+}
+
+.timeItem0 {
+  list-style: none;
+  background-color: hsl(15, 100%, 70%);
+  margin: 10px;
+  border-radius: 13px;
+  width: 200px;
+}
+
+.timeItem1 {
+  list-style: none;
+  background-color: hsl(195, 74%, 62%);
+  margin: 10px;
+  border-radius: 13px;
+  width: 200px;
+}
+
+.timeItem2 {
+  list-style: none;
+  background-color: hsl(348, 100%, 68%);
+  margin: 10px;
+  border-radius: 13px;
+  width: 200px;
+}
+
+.timeItem3 {
+  list-style: none;
+  background-color: hsl(145, 58%, 55%);
+  margin: 10px;
+  border-radius: 13px;
+  width: 200px;
+}
+
+.timeItem4 {
+  list-style: none;
+  background-color: hsl(264, 64%, 52%);
+  margin: 10px;
+  border-radius: 13px;
+  width: 200px;
+}
+
+.timeItem5 {
+  list-style: none;
+  background-color: hsl(43, 84%, 65%);
+  margin: 10px;
+  border-radius: 13px;
+  width: 200px;
+}
+
+.time {
+  color: white;
+  background-color: hsl(235, 46%, 20%);
+  padding: 5px;
+  margin-top: 30px;
+  margin-bottom: 0;
+  border-radius: 10px;
+  text-align: left;
+  font-family: Rubik;
+  height: 140px;
+}
+
+.time:hover {
+  background-color: hsl(235, 46%, 35%);
+}
+
+.time h2 {
+  margin-left: 10px;
+  font-size: 17px;
+}
+
+.time .current {
+  margin: 0 0 0 10px;
+  font-size: 40px;
+}
+
+.time .previous {
+  margin-left: 10px;
+  font-size: 13px;
+}

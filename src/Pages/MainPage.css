@@ -1,0 +1,13 @@
+.mainPage {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  background-color: hsl(226, 43%, 10%);
+  height: 100vh;
+}
+
+.profile {
+  margin: 25px 0 0 30px;
+  border-radius: 10px;
+  background-color: hsl(235, 46%, 20%);
+  height: 380px;
+}

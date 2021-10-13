@@ -1,0 +1,351 @@
+{
+  "timeTable": [
+    {
+      "title": "Work",
+      "userId": 1,
+      "timeframes": {
+        "daily": {
+          "current": 5,
+          "previous": 7
+        },
+        "weekly": {
+          "current": 32,
+          "previous": 36
+        },
+        "monthly": {
+          "current": 103,
+          "previous": 128
+        }
+      }
+    },
+    {
+      "title": "Work",
+      "userId": 2,
+      "timeframes": {
+        "daily": {
+          "current": 5,
+          "previous": 7
+        },
+        "weekly": {
+          "current": 34,
+          "previous": 31
+        },
+        "monthly": {
+          "current": 105,
+          "previous": 102
+        }
+      }
+    },
+    {
+      "title": "Work",
+      "userId": 3,
+      "timeframes": {
+        "daily": {
+          "current": 2,
+          "previous": 3
+        },
+        "weekly": {
+          "current": 22,
+          "previous": 46
+        },
+        "monthly": {
+          "current": 99,
+          "previous": 102
+        }
+      }
+    },
+    {
+      "title": "Play",
+      "userId": 1,
+      "timeframes": {
+        "daily": {
+          "current": 1,
+          "previous": 2
+        },
+        "weekly": {
+          "current": 10,
+          "previous": 8
+        },
+        "monthly": {
+          "current": 23,
+          "previous": 29
+        }
+      }
+    },
+    {
+      "title": "Play",
+      "userId": 2,
+      "timeframes": {
+        "daily": {
+          "current": 2,
+          "previous": 1
+        },
+        "weekly": {
+          "current": 11,
+          "previous": 7
+        },
+        "monthly": {
+          "current": 19,
+          "previous": 22
+        }
+      }
+    },
+    {
+      "title": "Play",
+      "userId": 3,
+      "timeframes": {
+        "daily": {
+          "current": 1,
+          "previous": 2
+        },
+        "weekly": {
+          "current": 8,
+          "previous": 8
+        },
+        "monthly": {
+          "current": 21,
+          "previous": 24
+        }
+      }
+    },
+    {
+      "title": "Study",
+      "userId": 2,
+      "timeframes": {
+        "daily": {
+          "current": 4,
+          "previous": 2
+        },
+        "weekly": {
+          "current": 10,
+          "previous": 13
+        },
+        "monthly": {
+          "current": 23,
+          "previous": 14
+        }
+      }
+    },
+    {
+      "title": "Study",
+      "userId": 1,
+      "timeframes": {
+        "daily": {
+          "current": 4,
+          "previous": 3
+        },
+        "weekly": {
+          "current": 1,
+          "previous": 6
+        },
+        "monthly": {
+          "current": 18,
+          "previous": 22
+        }
+      }
+    },
+    {
+      "title": "Study",
+      "userId": 3,
+      "timeframes": {
+        "daily": {
+          "current": 7,
+          "previous": 9
+        },
+        "weekly": {
+          "current": 12,
+          "previous": 13
+        },
+        "monthly": {
+          "current": 32,
+          "previous": 35
+        }
+      }
+    },
+    {
+      "title": "Exercise",
+      "userId": 1,
+      "timeframes": {
+        "daily": {
+          "current": 2,
+          "previous": 4
+        },
+        "weekly": {
+          "current": 3,
+          "previous": 4
+        },
+        "monthly": {
+          "current": 12,
+          "previous": 15
+        }
+      }
+    },
+    {
+      "title": "Exercise",
+      "userId": 2,
+      "timeframes": {
+        "daily": {
+          "current": 3,
+          "previous": 5
+        },
+        "weekly": {
+          "current": 6,
+          "previous": 10
+        },
+        "monthly": {
+          "current": 13,
+          "previous": 20
+        }
+      }
+    },
+    {
+      "title": "Exercise",
+      "userId": 3,
+      "timeframes": {
+        "daily": {
+          "current": 3,
+          "previous": 4
+        },
+        "weekly": {
+          "current": 7,
+          "previous": 8
+        },
+        "monthly": {
+          "current": 12,
+          "previous": 17
+        }
+      }
+    },
+    {
+      "title": "Social",
+      "userId": 1,
+      "timeframes": {
+        "daily": {
+          "current": 3,
+          "previous": 5
+        },
+        "weekly": {
+          "current": 7,
+          "previous": 12
+        },
+        "monthly": {
+          "current": 24,
+          "previous": 28
+        }
+      }
+    },
+    {
+      "title": "Social",
+      "userId": 2,
+      "timeframes": {
+        "daily": {
+          "current": 3,
+          "previous": 2
+        },
+        "weekly": {
+          "current": 6,
+          "previous": 112
+        },
+        "monthly": {
+          "current": 21,
+          "previous": 23
+        }
+      }
+    },
+    {
+      "title": "Social",
+      "userId": 3,
+      "timeframes": {
+        "daily": {
+          "current": 4,
+          "previous": 7
+        },
+        "weekly": {
+          "current": 10,
+          "previous": 12
+        },
+        "monthly": {
+          "current": 23,
+          "previous": 25
+        }
+      }
+    },
+    {
+      "title": "Self Care",
+      "userId": 1,
+      "timeframes": {
+        "daily": {
+          "current": 1,
+          "previous": 2
+        },
+        "weekly": {
+          "current": 3,
+          "previous": 5
+        },
+        "monthly": {
+          "current": 9,
+          "previous": 13
+        }
+      }
+    },
+    {
+      "title": "Self Care",
+      "userId": 2,
+      "timeframes": {
+        "daily": {
+          "current": 2,
+          "previous": 5
+        },
+        "weekly": {
+          "current": 4,
+          "previous": 6
+        },
+        "monthly": {
+          "current": 9,
+          "previous": 13
+        }
+      }
+    },
+    {
+      "title": "Self Care",
+      "userId": 3,
+      "timeframes": {
+        "daily": {
+          "current": 1,
+          "previous": 3
+        },
+        "weekly": {
+          "current": 4,
+          "previous": 5
+        },
+        "monthly": {
+          "current": 9,
+          "previous": 13
+        }
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Elio",
+      "lastName": "Mehmeti",
+      "age": 26,
+      "img": "https://avatars.githubusercontent.com/u/81304859?v=4"
+    },
+    {
+      "id": 2,
+      "firstName": "Linlin",
+      "lastName": "Lin",
+      "age": 23,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmn8_XVjtKCur9Q6zAxn6BxIfwTipsXHCV9Q&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "firstName": "Elizabeth",
+      "lastName": "Lizzie",
+      "age": 23,
+      "img": "https://cdn.vox-cdn.com/thumbor/GomL7XXjOZ9aNcOAn2eFKD1XF38=/0x0:2282x1518/1400x933/filters:focal(871x596:1235x960):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68577399/Rapsittie_Street_Kid_girl.0.jpg"
+    }
+  ]
+}
